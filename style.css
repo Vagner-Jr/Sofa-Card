@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:wght@300;400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap');
+
+:root {
+    --bg-color: #D9CDF7;
+    --text-color: #271A45;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: var(--text-color);
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    padding: 0 24px;
+    display: grid;
+    grid-template-areas: 
+    'main header';
+    grid-template-columns: 3fr 2fr;
+    grid-template-rows: 60%;
+    place-content: center;
+    background: var(--bg-color);
+}
+
+header {
+    grid-area: header;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 8px;
+}
+
+h1 {
+    font-family: 'Crimson Pro', serif;
+}
+
+p {
+    font-family: 'Lato', sans-serif;
+}
+
+p:nth-child(1) {
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+}
+
+div.price {
+    width: 180px;
+    height: 36px;
+    display: grid;
+    place-content: center;
+    margin-top: 20px;
+    border: 1px solid var(--text-color);
+    border-radius: 2rem;
+    font-family: 'Lato', sans-serif;
+}
+
+main {
+    grid-area: main;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-end;
+    gap: 12px;
+    padding: 32px;
+}
+
+button {
+    margin-right: 60px;
+}
+
+button {
+    width: 32px;
+    justify-content: start;
+    border: none;
+    background-color: var(--bg-color);
+}
