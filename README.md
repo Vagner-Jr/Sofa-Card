@@ -6,14 +6,6 @@
   <img alt="Sofa card" title="Sofa card" src="./assets/preview-sofaCard.png" />
 </h1>
 
-<p align="center">
- <a href="#Tecnologias">Tecnologias</a> &nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="#roadmap">Roadmap</a> &nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;
- <a href="#tecnologias">Tecnologias</a> &nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp; 
- <a href="#contribuicao">Contribuição</a> &nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;
- <a href="#licenc-a">Licença</a> &nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;
- <a href="#autor">Autor</a>
-</p>
 <br/>
 
 <h4 align="center"> ✅ Sofa Card 🛋️ Already done ✅
