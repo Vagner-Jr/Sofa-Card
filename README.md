@@ -6,8 +6,6 @@
   <img alt="Sofa card" title="Sofa card" src="./assets/preview-sofaCard.png" />
 </h1>
 
-<br/>
-
 <h4 align="center"> ✅ Sofa Card 🛋️ Already done ✅
 
 <br/>
