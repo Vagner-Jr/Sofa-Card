@@ -1,15 +1,16 @@
 <!DOCTYPE html>
 <html lang="pt-br" class="animated">
   <head>
-    <link rel="stylesheet" href="style.css" />
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Sofa | DevN</title>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="icon" href="./assets/market-car.svg">
+    <script src="https://unpkg.com/phosphor-icons"></script>
   </head>
 
   <body>
-    <!--figma.com/file/DKAyDbcsKdw6JoMZEvgiKS/Calendário-de-Jogos-(Community)?node-id=0%3A1-->
     <div id="prodoct-view">
       <button id="btn-graus" onclick="toggle()">
         <img
@@ -17,6 +18,7 @@
           alt="ícone para fazer com que o objeto a se vender gire em 360 graus"
         />
       </button>
+      
       <button id="btn-cancel" onclick="toggle()">
         <img
           src="./assets/cancel.svg"
@@ -39,9 +41,7 @@
     </div>
 
     <script>
-      function toggle() {
-        document.documentElement.classList.toggle("animated");
-      }
+      const toggle = () =>  document.documentElement.classList.toggle("animated");
     </script>
   </body>
 </html>
