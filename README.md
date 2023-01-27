@@ -1,52 +1,59 @@
 
-    <!--figma.com/file/DKAyDbcsKdw6JoMZEvgiKS/Calendário-de-Jogos-(Community)?node-id=0%3A1-->
-<h1 align="center">🛋️ Sofa Card</h1>
-<br/>
-<p align="center"> Página de venda de um Sofá Margot Rosé </p>
+<h1 align="center"> Market Place 🛋️ </h1>
 
-<h1 align="center">
-  <img alt="Sofa card" title="Sofa card" src="./assets/preview-sofaCard.png" />
-</h1>
-
-<h4 align="center"> ✅ Sofa Card 🛋️ Already done ✅
+<p align="center">
+  Desenvolvendo uma loja de venda de móveis.
+</p>
 
 <br/>
 
-### 🛠 Technologies
+<p align="center">
+  <a href="#-status">Status</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-licença">Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-contato">Contato</a>
+</p>
 
-As seguintes ferramentas foram usadas na construção do projeto:
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
 
-- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+<br>
 
-<br/>
+<p align="center">
+  <img alt="projeto Portfolio" src=".github/preview.png" width="100%">
+</p>
 
-### 👨🏻‍💻 MIT License
+## ✅ Status
 
-Copyright (c) <2020> <Vagner Junior>
+Finalizado com sucesso!
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+## 🚀 Tecnologias
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+- HTML & CSS
+- JavaScript
+- Git & Github
+- Figma
 
-<br/>
+## 💻 Projeto
 
-<h2 align='center'>Contact</h2>
+  Projeto de desenvolvimento de uma página da venda de uma sofá rose proposto pela <a href='https://www.rocketseat.com.br'>Rocketseat</a> no segundo desafio do boraCodar. Você pode acessar o projeto online através [desse link](https://vagner-jr.github.io/Sofa-Card/).
+
+## 🔖 Layout
+
+Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/6iurMzH44Ly0dgodiZcmMv/%23boraCodar---Desafio-2-(Community)?node-id=0%3A1&t=ZycmJnXLg6Kv0z85-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+
+## 📄 Licença
+
+Esse projeto está sob a licença MIT.
+
+---
+
+<h2 align="center">📱Contato</h2> 
 
 <p align="center">
 <a href="https://codepen.io/Dev_Natividade" target="_blank">
